@@ -1,0 +1,47 @@
+Week 1:
+
+An overview of Software engineering .
+We think about user perspective and developer perspectives.
+Analyze about 'CANDY CRUSH'.
+
+Week 2:
+
+About the Traditional and Agile Model that Agile model is some what easier than traditional model.
+Life cycles like Waterfall model.
+Something explained about the topic  but i can't understand.
+
+Week 3:
+
+Functional and Non Functional requirements.
+Difference between them,using some examples .
+At last we disscused about projects.
+
+Week 4:
+
+ Zachman framwork.
+ Deming's philosphy--Plan
+                     Do
+                     Check
+                     Act
+  About Agile Manifesto and scrum(how to use in our projects).
+  About product backlog,burndown chart etc..
+  
+ 
+ Week 5:
+ 
+ About SRS(Software Requirements Specifications) Document:
+
+...... input file-----{fi}----->output file
+
+3 important assepts of SRS:
+a)Functional requirements
+b)Non Functional requirements
+c)Goals of Implementations
+ 
+ 
+ SRS-------customers thinking prospective
+ SRS is heavy for document approch.
+ Use cases also littele heavy but less than SRS and some functions will be added.
+ User Stories is much more lighter.
+ Product backlogs is more pratical and more direct.
+ 
